@@ -77,4 +77,4 @@
 
 ## 十一、其他链接
 
-传送门：我招工作考量
+传送门：[我找工作考虑的方面](https://github.com/mcx2020/my-front-end-interview/blob/master/sources/job-thinking-2020-7-9.md)
