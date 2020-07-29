@@ -67,7 +67,7 @@
 4. AJAX 数据通信怎么做？
 5. 我们怎么和后端做数据交互？
 6. LocalStorage 和 SessionStorage 有什么区别？
-7. 兼容 IE 你会有什么方法？说说 HTML 方面和 JavaScript 方面。
+7. 兼容 IE 你有什么方法？（我说我一般不兼用 IE，卒）
 
 ## 七、计算机网络
 
