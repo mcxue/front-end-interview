@@ -1,4 +1,4 @@
-// 手写 promise 简化版
+// 手写 promise 简化版，没有链式调用
 
 class MyPromise {
   #status = 'pending'
