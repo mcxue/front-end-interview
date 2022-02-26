@@ -1,8 +1,6 @@
-我是跨行业转行，自过年以来直到现在 7 月初开始找工作，一直在自我驱动式学习，最近在面试，终于把“学习技术”和“工作技术”与他人有一次直接的交流，是一次接轨，发现自己许多不足之处，大致了解了现在前端市场上都需要些什么能力，从长远来看，任重而道远，要会的东西太多了。如今在 7 月末已经找到一份比较心仪的前端工作，愉快地加入搬砖行列啦。
+在此汇集一下我在面试中被问的一些问题
 
-自己的知识面有限，知识细节肯定无法面面俱到，而通过面试可以知道哪些知识孰轻孰重。先面试，问我不懂的，面试 fail，就回去好好补齐这方面知识，再面试，问我不懂的，面试 fail，再补齐，再面试，再补齐......这个学习方法就姑且称为“面试学习法”吧。
-
-在此汇集一下我在面试中被问的一些问题。
+2020-7-29
 
 ## 一、HTML
 
@@ -10,19 +8,19 @@
 
 ## 二、CSS
 
-1. 说说 CSS 的 Flex 布局的属性（这个问题不止一个面试官问我了，必会）[传送门](https://www.yuque.com/machaoxue/notes/bbe3ig)
-2. 什么是 CSS 浮动？什么是浮动塌陷？[传送门](https://www.yuque.com/machaoxue/notes/gy6myd)
-3. CSS 实现垂直居中的方式。[传送门](https://www.yuque.com/machaoxue/notes/iyede2)
+1. 说说 CSS 的 Flex 布局的属性（这个问题不止一个面试官问我了，必会）
+2. 什么是 CSS 浮动？什么是浮动塌陷？
+3. CSS 实现垂直居中的方式。
 4. 用 CSS 实现三栏布局。
 5. CSS 选择器优先级是怎样的？
 6. CSS 动画中，animation 与 transition 应用场景有哪些？
 
 ## 三、JavaScript
 
-1. JS 的 Promise 怎么用？[传送门](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)
-2. Promise 的静态方法有哪些，并追问 all 的使用场景有哪些？[传送门](https://es6.ruanyifeng.com/#docs/promise)
-3. 简单说一说JS 的原型链。[传送门](https://www.yuque.com/machaoxue/notes/vw7n35)
-4. ES6 语法知道哪些？[传送门](https://fangyinghang.com/es-6-tutorials/)
+1. JS 的 Promise 怎么用？
+2. Promise 的静态方法有哪些，并追问 all 的使用场景有哪些？
+3. 简单说一说JS 的原型链。
+4. ES6 语法知道哪些？
 5. 说一说深拷贝。
 6. const、let、var 的原理和区别？
 7. 谈一谈 JS 闭包，你认为 JS 闭包是用了什么样的理念，然后闭包有哪些场景应用？
@@ -92,16 +90,14 @@
 
 1. 知道哪些设计模式？
 
-## 十、总结
+## 十、传送门
 
-以上是我在前端面试被问到的一些问题，当然还有许许多多的知识盲区，然后我也看到了其他人整理的面试题，感谢前辈们的分享，作为一个新人初来乍到进入前端行业，看到有这样一个繁荣的社区，真的感动。
+其他人整理的面试题
 
 * [博主：Advanced-Frontend](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 * [博主：paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 * [博主：CavsZhouyou](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
-## 十一、其他链接
+学习笔记
 
-传送门1 ：[我找工作考虑的方面](https://github.com/mcx2020/my-front-end-interview/blob/master/sources/job-thinking-2020-7-9.md)
-
-传送门2：[我的学习笔记 - 语雀](https://www.yuque.com/machaoxue/notes)
+* [我的学习笔记 - 语雀](https://www.yuque.com/machaoxue/notes-sharing)
